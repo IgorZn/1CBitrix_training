@@ -1,0 +1,19 @@
+# ненужные файлы и папки IDE и операционных систем
+.idea/
+.DS_Store
+site_checker_*.*
+*.sublime-workspace
+.buildpath
+.project
+.settings
+nbproject
+Thumbs.db
+.~lock.*
+*.conf
+
+# ненужные файлы и папки битрикса
+bitrix*/
+auth/
+upload/tmp/
+
+start_encode.tar.*
