@@ -3,6 +3,7 @@ if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true)
     die();
 
 use Bitrix\Main\Page\Asset;
+$APPLICATION->SetPageProperty("TITLE", "Главная");
 
 ?>
 
@@ -116,10 +117,10 @@ use Bitrix\Main\Page\Asset;
                             <nav id="primary-menu">
                                 <ul class="main-menu text-right">
                                     <li>
-                                        <a href="index.html">Главная</a>
+                                        <a href="/">Главная</a>
                                     </li>
                                     <li>
-                                        <a href="about_us.html">О нас</a>
+                                        <a href="/about">О нас</a>
                                     </li>
                                     <li>
                                         <a href="services.html"> Услуги
