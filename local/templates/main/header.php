@@ -111,8 +111,9 @@ $APPLICATION->SetPageProperty("TITLE", "Главная");
                         </div>
                     </div>
 
-                    <!-- Меню (основное) -->
+
                     <div class="col-md-10 col-sm-9 col-xs-4 text-right dark-menu">
+                        <!-- Меню (основное) -->
                         <div class="header-main-menu hidden-xs">
                             <nav id="primary-menu">
                                 <ul class="main-menu text-right">
