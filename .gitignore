@@ -12,7 +12,7 @@ Thumbs.db
 *.conf
 
 # ненужные файлы и папки битрикса
-bitrix*/
+/bitrix*/
 auth/
 upload/tmp/
 
